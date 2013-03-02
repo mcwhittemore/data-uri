@@ -8,6 +8,8 @@ Convert files (locally and via http/https) into data uris with ease.
 
 ## Usage
 
+Explore demo/demo.js for more examples.
+
 	data_uri.encode("buy_a_bonsai.jpg", function(results){
 		console.log(results);
 	});
