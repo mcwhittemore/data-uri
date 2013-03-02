@@ -10,11 +10,12 @@
     } 
   ],
   "keywords": [
+    "data-uri", "data-url", "datauri", "dataurl"
   ],
   "main": "./lib/data-uri",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/mcwhittemore/data-uri.git"
   },
   "dependencies": {
     "request": "2.14.0",
