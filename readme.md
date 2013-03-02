@@ -38,3 +38,9 @@ Creates data-uris for a file path or an array of files paths.
 * startPos: Which index in the array of paths to start encoding at. Defaults to 0.
 * endPos: Which index in the array of paths to stop decoding before. Defaults to paths.length;
 * results: the results object to return, minus any changes to the results object made by encode. Defaults to {};
+
+## Change Log
+
+### 0.0.1
+
+* Added encode endpoint.
