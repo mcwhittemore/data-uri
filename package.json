@@ -1,0 +1,24 @@
+{
+  "name": "data-uri",
+  "version": "0.0.1",
+  "author": "Matthew Chase Whittemore <mcwhittemore@gmail.com>",
+  "description": "Create data uris of anything from anywhere.",
+  "contributors": [
+    {
+      "name": "Matthew Chase Whittemore",
+      "email": "mcwhittemore@gmail.com"
+    } 
+  ],
+  "keywords": [
+  ],
+  "main": "./lib/data-uri",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "request": "2.14.0",
+    "mime": "1.2.9"
+  },
+  "license": "MIT"
+}
