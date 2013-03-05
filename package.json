@@ -1,6 +1,6 @@
 {
   "name": "data-uri",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Matthew Chase Whittemore <mcwhittemore@gmail.com>",
   "description": "Create data uris of anything from anywhere.",
   "contributors": [
