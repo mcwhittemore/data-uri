@@ -39,8 +39,20 @@ Creates data-uris for a file path or an array of files paths.
 * endPos: Which index in the array of paths to stop decoding before. Defaults to paths.length;
 * results: the results object to return, minus any changes to the results object made by encode. Defaults to {};
 
+### render(content, meme-type)
+
+Returns the content encoded as a data-uri of meme-type
+
 ## Change Log
 
 ### 0.0.1
 
 * Added encode endpoint.
+
+### 0.0.2
+
+* simply bug fix
+
+### 0.0.3
+
+* added in render endpoint
